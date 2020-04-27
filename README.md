@@ -6,7 +6,9 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 # Some <i>(useless)</i> Stats
 <b>Current Scripts:</b> 1
+
 <b>Coding Time:</b> 1 Hour
+
 <b>Languages:</b> 1
 
 # Current Scripts
