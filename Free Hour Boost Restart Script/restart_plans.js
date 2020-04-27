@@ -18,7 +18,7 @@
   var plansIDs = ["848322", "487382", "3489328"];
 
   /*
-  To make it scrape all the plans you have just set the variable allPlans = false;
+  To make it scrape all the plans you have just set the variable allPlans = true;
   */
   var allPlans = true;
   var scrapedPlanIDs = [];
