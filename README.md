@@ -13,4 +13,5 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 # Current Scripts
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/Free%20Hour%20Boost%20Restart%20Script">FreeHourBoost.com Restart Script</a>
+
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/blob/master/Jackbox%20Games%20Audience%20Booster">Jackbox.tv Audience Booster</a>
