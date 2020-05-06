@@ -69,11 +69,7 @@ class Bot {
 		if (this.currentSteamHours >= this.desired_hours) {
 			console.log(`${this.username} | Hours ${this.currentSteamHours}`)
 			console.log("Hour Boosting Finished, sleeping for 3 seconds.");
-			setInterval(function () {
-				this.client.logOff();
-				this.client.removeAllListeners();
-				DeleteBot();
-			}.bind(this), 3500);
+			log_off();
 		}
 	}
 
@@ -95,6 +91,7 @@ class Bot {
 			this.client.logOff();
 			console.log("Logged Off");
 			this.client.removeAllListeners();
+			DeleteBot();
 		}.bind(this), 3500);
 	}
 
