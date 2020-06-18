@@ -5,7 +5,7 @@ Just a small collection of scripts I have made. I can't promise everything in he
 The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 # Some <i>(useless)</i> Stats
-<b>Current Scripts:</b> 3
+<b>Current Scripts:</b> 4
 
 <b>Coding Time:</b> 9 hours.
 
