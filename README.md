@@ -7,7 +7,7 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 # Some <i>(useless)</i> Stats
 <b>Current Scripts:</b> 3
 
-<b>Coding Time:</b> 5 Hour 45 minutes.
+<b>Coding Time:</b> 9 hours.
 
 <b>Languages:</b> 1
 
@@ -17,3 +17,5 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/blob/master/Jackbox%20Games%20Audience%20Booster">Jackbox.tv Audience Booster</a>
 
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/HourBoost%20Script">Bulk HourBoost Script</a>
+
+<a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/ZombieWrath.com%20Money%20Script">ZombieWrath.com Money Script </a>
