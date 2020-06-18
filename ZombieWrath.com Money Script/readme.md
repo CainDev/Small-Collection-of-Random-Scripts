@@ -7,6 +7,7 @@ This script is pretty gnarly. I actually spent a while putting it together. I kn
 - A <b>MAIN</b> Account
 
 # Setup
+- Make a NEW Userscript for every file.
 - Go to Home.js
 	- Change the Profile on line 28 to your own.
 - Go to Checkpoint.js
