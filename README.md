@@ -5,13 +5,13 @@ Just a small collection of scripts I have made. I can't promise everything in he
 The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 # Some <i>(useless)</i> Stats
-<b>Current Scripts:</b> 4
+<b>Current Scripts:</b> 5
 
 <b>Coding Time:</b> 9 hours.
 
 <b>Languages:</b> 1
 
-# Current Scripts
+# Current Scripts (Small scripts aren't listed)
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/Free%20Hour%20Boost%20Restart%20Script">FreeHourBoost.com Restart Script</a>
 
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/blob/master/Jackbox%20Games%20Audience%20Booster">Jackbox.tv Audience Booster</a>
