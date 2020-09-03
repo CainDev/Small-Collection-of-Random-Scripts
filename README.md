@@ -23,4 +23,4 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/ZombieWrath.com%20Money%20Script">ZombieWrath.com Money Script </a>
 
-<a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/">Steamunlocked.net Button Fixer. (Skips ADs)</a>
+<a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/Steamunlocked.net%20Download%20Fixer">Steamunlocked.net Button Fixer. (Skips ADs)</a>
