@@ -21,6 +21,7 @@
       28800 = 8 Hours (New Users: Max 3 bumps a day)
     */
     var threads = [
+        // Put your thread ids here.
         5681552, 5681551, 5681550
     ];
 
