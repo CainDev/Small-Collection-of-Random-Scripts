@@ -11,9 +11,6 @@ The languages used in these scripts will probably be Python & JavaScript/NodeJS.
 
 <b>Languages:</b> 1
 
-# Support Me!
-<a href="https://ko-fi.com/cainn" target="_blank"><img src="https://i.ibb.co/RTGhSsz/coffee.png"></a>
-
 # Current Scripts (Small scripts aren't listed)
 <a href="https://github.com/gothboiclique/Small-Collection-of-Random-Scripts/tree/master/Free%20Hour%20Boost%20Restart%20Script">FreeHourBoost.com Restart Script</a>
 
